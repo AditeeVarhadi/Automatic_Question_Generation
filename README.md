@@ -1,1 +1,1 @@
-# Automatic_Question_Genertion
+# Automatic_Question_Generation
